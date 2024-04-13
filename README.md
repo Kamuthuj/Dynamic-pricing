@@ -12,3 +12,5 @@ I later implemented the dynamic pricing, to adjust ride cost dynamically based o
 ![Ride profitability (Dynamic vs historical)](https://github.com/Kamuthuj/Dynamic-pricing/assets/121629618/8257ed65-ed6a-4e50-9002-0db7cf441398)
 
 I preprocessed the data using a standard scaler, and dealt with outliers within the data. I also dealt with numerical missing data by filling with mean and categorical by mode. I used the decision tree regressor for model prediction to get the actual values and the predicted values.
+
+![Actuals vs predictions](https://github.com/Kamuthuj/Dynamic-pricing/assets/121629618/ba2877e7-3c61-48f5-b81d-8e966cb2cb3d)
